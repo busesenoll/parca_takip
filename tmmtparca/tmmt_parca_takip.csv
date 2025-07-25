@@ -1,0 +1,6 @@
+﻿parca_kodu;parca_adi;giris_tarihi;cikis_tarihi;adet;lokasyon_kodu;durum
+TMMT-1001;Rear Bumper;2025-07-11;2025-07-16;25;S03-AssemblyLine;used
+TMMT-1002;Front Light;2025-07-10;2025-07-14;40;S01-Stock;used
+TMMT-1003;Hood;2025-07-12;;15;S02-Storage;in stock
+TMMT-1004;Wheel;2025-07-13;2025-07-20;60;S04-AssemblyLine;used
+TMMT-1005;Mirror;2025-07-15;;30;S01-Stock;in stock
